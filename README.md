@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img align="center" src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="pic">
+</p>
 
-<!--
-**aditmekka/aditmekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adit Raditya Mekka, I'm 16 years old, and I'm a Electronics Engineering student at SMKN 6 Bandung Vocational School.
 
-Here are some ideas to get you started:
+<h4 align="center">Studying Technologies </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,kotlin,vscode,html,css,js,arduino," />
+  </a>
+</p>
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/aditmekka">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aditmekka&show_icons=true&theme=github_dark"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditmekka&theme=github_dark&layout=compact"/>
+  </a>
+</div>

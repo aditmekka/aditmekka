@@ -14,7 +14,7 @@ I'm Adit Raditya Mekka, I'm 16 years old, and I'm a Electronics Engineering stud
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/aditmekka">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aditmekka&show_icons=true&theme=github_dark"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditmekka&theme=github_dark&layout=compact"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aditmekka&show_icons=true&theme=github_dark"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditmekka&theme=github_dark&layout=compact"/>
   </a>
 </div>

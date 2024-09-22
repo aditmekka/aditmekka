@@ -8,7 +8,7 @@ I'm Adit Raditya Mekka, I'm 16 years old, and I'm a Electronics Engineering stud
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,kotlin,vscode,html,css,js,arduino," />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,kotlin,java,vscode,html,css,js,arduino," />
   </a>
 </p>
 

@@ -2,7 +2,7 @@
   <img align="center" src="https://i.pinimg.com/originals/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="pic">
 </p>
 
-I'm Adit Raditya Mekka, I'm 16 years old, and I'm an Electronics Engineering student at SMKN 6 Bandung Vocational School.
+I'm Adit Raditya Mekka, I'm 17 years old, and I'm an Electronics Engineering student at SMKN 6 Bandung Vocational School.
 
 <h4 align="center">Studying Technologies </h4>
 

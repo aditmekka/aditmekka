@@ -1,8 +1,11 @@
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditmekka/aditmekka/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditmekka/aditmekka/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aditmekka/aditmekka/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
@@ -46,7 +49,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/dit.z_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzuvg2pqq3qepnlajg5ozvd7jy&count=3&unique=false&width=600" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzuvg2pqq3qepnlajg5ozvd7jy&count=3&unique=false&width=300" alt="Spotify recently played"  />
   </a>
 </div>
 

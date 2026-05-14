@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="center">I'm a student at SMKN 6 Bandung in Indonesia</h4>
+<h4 align="center">IVocational school graduate in Electronics Engineering</h4>
 
 ###
 

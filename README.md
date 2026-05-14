@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="center">IVocational school graduate in Electronics Engineering</h4>
+<h4 align="center">Vocational school graduate in Electronics Engineering</h4>
 
 ###
 

@@ -15,7 +15,7 @@
 🔬 **R&D Engineer** @ **Monsterchip Indonesia** · ⚡ Firmware & Hardware · 🎓 Electronics Engineering
 
 <a href="https://monsterchip.co.id">
-  <img src="monsterchip-logo.svg" width="36" height="36" alt="Monsterchip" />
+  <img src="monsterchip-logo.svg" width="28" height="28" alt="Monsterchip" />
   <img src="https://img.shields.io/badge/R%26D_Engineer-Monsterchip_Indonesia-F08300?style=for-the-badge" />
 </a>
 

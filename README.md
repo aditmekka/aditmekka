@@ -34,7 +34,7 @@
 - 🔬 **R&D Engineer** at **Monsterchip Indonesia**, working across both **firmware & hardware**
 - 🎓 **Electronics Engineering** graduate from vocational school
 - 🛠️ Daily grind: **STM32** & **ESP32** firmware — mostly **Arduino** & **STM32Cube** frameworks
-- 🦾 Slowly learning **mechanical engineering** — real products need more than code!
+- 🦾 Slowly learning **mechanical engineering** — **Autodesk Fusion** for CAD — real products need more than code!
 - 🧪 A tinkerer at heart: lots of experiments, some finished, some WIP, some abandoned 😅
 - 🎵 You'll almost always find me coding with some tunes on 🎧
 
@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/Pico_C_SDK-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Pico C SDK" />
   <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />

@@ -12,7 +12,7 @@
 
 # 👋 Hi There, I'm **Adit Raditya Mekka**!
 
-🔬 **R&D Engineer** @ **Monsterchip Indonesia** · ⚡ Firmware & Hardware · 🎓 Electronics Engineering
+🔬 **R&D STAFF** @ **Monsterchip Indonesia** · ⚡ Firmware & Hardware · 🎓 Electronics Engineering
 
 <a href="https://monsterchip.co.id">
   <img src="monsterchip-logo.svg" width="28" height="28" alt="Monsterchip" />

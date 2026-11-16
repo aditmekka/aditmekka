@@ -31,7 +31,7 @@
 
 <img align="right" height="180" src="https://i.postimg.cc/3xjw0WKw/download.gif" />
 
-- 🔬 **R&D Engineer** at **Monsterchip Indonesia**, working across both **firmware & hardware**
+- 🔬 **R&D STAFF** at **Monsterchip Indonesia**, working across both **firmware & hardware**
 - 🎓 **Electronics Engineering** graduate from vocational school
 - 🛠️ Daily grind: **STM32** & **ESP32** firmware — mostly **Arduino** & **STM32Cube** frameworks
 - 🦾 Slowly learning **mechanical engineering** — **Autodesk Fusion** for CAD — real products need more than code!
